@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=currWorld\ movement\ currRotation\ currPosX\ currPosY
+comment0.target=void\ shoot(greenfoot.World,\ Vector,\ int,\ int,\ int)
+numComments=1

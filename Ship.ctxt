@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ checkKeys()
+comment2.params=val
+comment2.target=void\ set_thrust(boolean)
+comment3.params=ss
+comment3.target=void\ setShoot(ShootStrategy)
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=
+comment5.target=void\ checkHit()
+comment6.params=
+comment6.target=void\ explode()
+numComments=7

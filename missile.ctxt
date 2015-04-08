@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=speed\ rotation
+comment0.target=missile(Vector,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ checkRockHit()
+comment3.params=a
+comment3.target=void\ updateScore(Rock)
+comment4.params=
+comment4.target=void\ explode()
+numComments=5
